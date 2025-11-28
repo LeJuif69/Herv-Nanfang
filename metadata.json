@@ -1,0 +1,7 @@
+{
+  "name": "Jam - AI Music Studio",
+  "description": "Professional AI-assisted music production DAW featuring real-time collaboration, Afro-centric generative sound banks, and intelligent mastering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
